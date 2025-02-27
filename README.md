@@ -56,7 +56,7 @@ https://drive.google.com/file/d/1N_7PbrXE9Uad5_IPZ6C3b87pFlSkflKp/view?usp=drive
 
 I'm always open to collaborating on new projects or discussing game development. Feel free to reach out to me via:
 
-- *LinkedIn*: [Your LinkedIn](link)
+- *LinkedIn*: https://www.linkedin.com/in/viplav-patel-13b2812a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - *Email*: viplavpatel2004@gmail.com
 
 
