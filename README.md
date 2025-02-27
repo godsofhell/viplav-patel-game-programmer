@@ -23,6 +23,8 @@ Welcome to my GitHub! I'm a passionate *Game Developer* currently pursuing a *Ma
 ### 1. *VR Escape Game* (Unity)
 A VR-based escape room with procedural generation, randomized puzzles, and AI-driven challenges. It features dynamic gameplay to offer unique experiences every time the game is played.  
 https://drive.google.com/file/d/1Nz-dEcPHXKS4BC0IojHIuhIqX6GVG9x6/view?usp=drivesdk
+You can find the repository for this project on 
+[GitHub](https://github.com/godsofhell/VR-Escape-room)
 
 ### 2. *Multiplayer Heist Game* (Photon PUN 2, Unity)(Under Development)
 A multiplayer heist game with stealth mechanics, AI patrols, and player visibility tracking. It includes a master server setup and SQL databases for backend storage, enabling dynamic and strategic heist gameplay for multiple players.  
