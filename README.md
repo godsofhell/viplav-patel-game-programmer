@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm a passionate *Game Developer* currently pursuing a *Ma
 
 ## 📚 Education
 
-- *Master's in Game Development* - Kingston University, UK
+- *Master's in Game Development*(Programming) - Kingston University, UK
 - *Bachelor's Degree in Animation* (outside UK)
 - *Specialization in Programming for Games*
 
