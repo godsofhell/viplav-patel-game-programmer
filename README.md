@@ -33,7 +33,7 @@ You can find the repository for this project on
 A multiplayer heist game with stealth mechanics, AI patrols, and player visibility tracking. It includes a master server setup and SQL databases for backend storage, enabling dynamic and strategic heist gameplay for multiple players.  
 
 You can find the repository for this project on 
-[GitHub](https://github.com/godsofhell/VR-Escape-room)
+[GitHub](https://github.com/godsofhell/heist)
 
 ### 3. *Panda Adventure* (Unity)
 A platformer where the player controls a panda climbing a tree while avoiding enemies and navigating environmental hazards. The game emphasizes human advancement, nature destruction, and the panda's journey to find its mother.  This project is a teamwork where I collaborate and work with Animators, Game Designers, UI/UX, Sound Artist and another Programmer.
