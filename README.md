@@ -12,11 +12,6 @@ Welcome to my GitHub! I'm a passionate *Game Developer* currently pursuing a *Ma
 - *Tools*: Git, Visual Studio, TextMeshPro, Unity XR Toolkit
 - *Databases*: SQL, Backend Storage for Multiplayer Games,
 
-## 📚 Education
-
-- *Master's in Game Development*(Programming) - Kingston University, UK
-- *Bachelor's Degree in Animation* (outside UK)
-- *Specialization in Programming for Games*
 
 ## 🎮 Projects
 
@@ -53,6 +48,12 @@ https://drive.google.com/file/d/1N_7PbrXE9Uad5_IPZ6C3b87pFlSkflKp/view?usp=drive
 - Improving my understanding of *networking* and *backend storage* systems for larger-scale multiplayer games.
 - Expanding my experience with *AI programming* and implementing complex systems like *procedural generation* and *dynamic world-building*.
 - Participating in more Game Jams to improve Teamwork and Time Management skills.
+
+## 📚 Education
+
+- *Master's in Game Development*(Programming) - Kingston University, UK
+- *Bachelor's Degree in Animation* (outside UK)
+- *Specialization in Programming for Games*
 
 ## 📫 Get in Touch
 
